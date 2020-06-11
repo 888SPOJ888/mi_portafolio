@@ -62,7 +62,7 @@ header div {
 }
 
 
-#about h2, #experiencia h2, #trabajos h2 {
+#about h2, #experiencia h2, #trabajos, #contacto h2 {
 	color: #a52a2a;
 	border-bottom: solid 1px #000000;
 }
@@ -95,6 +95,9 @@ header div {
 	width: 30%;
 }
 
+#trabajos h2 {
+	border-bottom: solid 1px #000000;
+}
 .carousel-indicators {
 	top: 460px;
 }
