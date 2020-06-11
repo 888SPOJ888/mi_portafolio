@@ -9,6 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 h2 {
 	font-size: 3em;
+	
 }
 
 p {
@@ -19,6 +20,7 @@ p {
 .nav-link:hover,
 .navbar-nav .active {
 	background-color: brown;
+
 }
 
 
@@ -50,14 +52,14 @@ header div {
 }
 
 .btn-purple {
-	background-color: #00ffff;
-	border-color: #00ffff;
+	background-color: #ff4500;
+	border-color: #ff4500;
 	color: white;
 }
 
 .btn-purple:hover {
-	background-color: #4B3C5E;
-	border-color: #4B3C5E;
+	background-color: #90ee90;
+	border-color: #800000;
 	color: white;
 }
 
